@@ -1,4 +1,4 @@
-#.project
-#.classpath
-#.settings
-#bin/
+/.project
+/.classpath
+/.settings
+/bin/
