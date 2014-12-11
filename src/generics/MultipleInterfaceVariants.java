@@ -1,3 +1,5 @@
+package generics;
+
 //: generics/MultipleInterfaceVariants.java
 // {CompileTimeError} (Won't compile)
 
