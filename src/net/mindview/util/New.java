@@ -22,7 +22,6 @@ public class New {
   }
   // Examples:
   public static void main(String[] args) {
-	  //type arguments inference类型参数推断
     Map<String, List<String>> sls = New.map();
     List<String> ls = New.list();
     LinkedList<String> lls = New.lList();

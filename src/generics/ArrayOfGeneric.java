@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/ArrayOfGeneric.java
 
 public class ArrayOfGeneric {

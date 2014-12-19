@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/ComparablePet.java
 
 public class ComparablePet

@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/Apply.java
 // {main: ApplyTest}
 import java.lang.reflect.*;

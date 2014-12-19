@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/CountedObject.java
 
 public class CountedObject {

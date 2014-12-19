@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/BasicHolder.java
 
 public class BasicHolder<T> {

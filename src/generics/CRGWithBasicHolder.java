@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/CRGWithBasicHolder.java
 
 class Subtype extends BasicHolder<Subtype> {}
