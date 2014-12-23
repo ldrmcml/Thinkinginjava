@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/CaptureConversion.java
 
 public class CaptureConversion {

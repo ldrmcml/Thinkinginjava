@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/Functional.java
 import java.math.*;
 import java.util.concurrent.atomic.*;

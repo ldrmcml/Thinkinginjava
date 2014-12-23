@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/GenericArray2.java
 
 public class GenericArray2<T> {

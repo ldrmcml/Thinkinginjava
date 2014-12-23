@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/ExplicitTypeSpecification.java
 import typeinfo.pets.*;
 import java.util.*;

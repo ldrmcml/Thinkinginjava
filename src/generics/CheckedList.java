@@ -1,5 +1,3 @@
-package generics;
-
 //: generics/CheckedList.java
 // Using Collection.checkedList().
 import typeinfo.pets.*;
