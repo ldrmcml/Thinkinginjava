@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/RegisteredFactories.java
 // Registering Class Factories in the base class.
 import typeinfo.factory.*;
@@ -29,6 +31,11 @@ class Part {
 
 class Filter extends Part {}
 
+class test implements Factory<Filter>{
+	public Filter create(){
+		return new FuelFilter();
+	}
+}
 class FuelFilter extends Filter {
   // Create a Class Factory for each specific type:
   public static class Factory
