@@ -1,3 +1,5 @@
+package containers;
+
 //: containers/Maps.java
 // Things you can do with Maps.
 import java.util.concurrent.*;
