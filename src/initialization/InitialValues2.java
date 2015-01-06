@@ -1,3 +1,5 @@
+package initialization;
+
 //: initialization/InitialValues2.java
 // Providing explicit initial values.
 

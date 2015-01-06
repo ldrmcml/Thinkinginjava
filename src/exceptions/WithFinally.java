@@ -1,3 +1,5 @@
+package exceptions;
+
 //: exceptions/WithFinally.java
 // Finally Guarantees cleanup.
 

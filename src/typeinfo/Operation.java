@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/Operation.java
 
 public interface Operation {

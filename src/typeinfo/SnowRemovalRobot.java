@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/SnowRemovalRobot.java
 import java.util.*;
 

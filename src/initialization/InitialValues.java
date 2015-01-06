@@ -1,3 +1,5 @@
+package initialization;
+
 //: initialization/InitialValues.java
 // Shows default initial values.
 import static net.mindview.util.Print.*;
@@ -24,6 +26,7 @@ public class InitialValues {
     print("double         " + d);
     print("reference      " + reference);
   }
+   
   public static void main(String[] args) {
     InitialValues iv = new InitialValues();
     iv.printInitialValues();

@@ -1,3 +1,5 @@
+package initialization;
+
 //: initialization/MethodInit3.java
 public class MethodInit3 {
   //! int j = g(i); // Illegal forward reference

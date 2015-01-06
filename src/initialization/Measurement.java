@@ -1,3 +1,5 @@
+package initialization;
+
 //: initialization/Measurement.java
 class Depth {}
 

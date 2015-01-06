@@ -1,5 +1,10 @@
+package typeinfo;
+
 //: typeinfo/Robot.java
 import java.util.*;
+
+import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
+
 import net.mindview.util.*;
 
 public interface Robot {

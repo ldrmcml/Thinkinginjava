@@ -1,3 +1,5 @@
+package exceptions;
+
 //: exceptions/InputFile.java
 // Paying attention to exceptions in constructors.
 import java.io.*;

@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/Position.java
 
 class Position {

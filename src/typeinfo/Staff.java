@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/Staff.java
 import java.util.*;
 

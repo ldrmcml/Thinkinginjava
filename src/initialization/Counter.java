@@ -1,3 +1,5 @@
+package initialization;
+
 //: initialization/Counter.java
 public class Counter {
   int i;

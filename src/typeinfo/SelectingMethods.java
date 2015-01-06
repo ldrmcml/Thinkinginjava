@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/SelectingMethods.java
 // Looking for particular methods in a dynamic proxy.
 import java.lang.reflect.*;

@@ -1,3 +1,5 @@
+package gui;
+
 //: gui/ColorBoxes.java
 // A visual demonstration of threading.
 import javax.swing.*;

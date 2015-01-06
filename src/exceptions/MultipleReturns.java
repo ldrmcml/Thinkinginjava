@@ -1,3 +1,5 @@
+package exceptions;
+
 //: exceptions/MultipleReturns.java
 import static net.mindview.util.Print.*;
 
