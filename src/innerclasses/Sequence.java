@@ -1,3 +1,5 @@
+package innerclasses;
+
 //: innerclasses/Sequence.java
 // Holds a sequence of Objects.
 
