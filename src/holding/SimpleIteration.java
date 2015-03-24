@@ -1,3 +1,5 @@
+package holding;
+
 //: holding/SimpleIteration.java
 import typeinfo.pets.*;
 import java.util.*;
