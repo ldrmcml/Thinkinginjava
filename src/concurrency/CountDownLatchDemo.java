@@ -63,6 +63,7 @@ public class CountDownLatchDemo {
 		for(int i = 0; i < SIZE; i++)
 			exec.execute(new TaskPortion(latch));
 		print("Launched all tasks");
+		//等待之前提交的执行完，不再接收新的任务提交
 		exec.shutdown(); // Quit when all tasks complete
 	}
 } /* (Execute to see output) *///:~
